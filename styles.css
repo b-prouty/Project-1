@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: url('images/main-background2.jpg') no-repeat top center;
 }
 /* Link Styles */
 
@@ -54,7 +54,9 @@ a:hover {
 .nav a:hover {
   color: white
 }
+main {
 
+}
 header {
   text-align: center;
   background: url('images/Background.jpg') no-repeat top center ;
@@ -87,9 +89,6 @@ header .profile-image:hover {
 .location {
   background-color: #222;
   color: yellow;
-}
-.experience h1{
-  
 }
 .card {
   margin: 30px;
